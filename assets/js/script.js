@@ -72,6 +72,11 @@ $(".time-block").on("click", "p", function () {
 
 // on click of save button run saveTask
 $(".saveBtn").on("click", function () {
+    // Need to make sure it's a textarea element in the block selected
+    if ($(this).prev().is("p")) {
+        return
+    }
+
     var inputText = $(this)
         .prev()
         .val();
