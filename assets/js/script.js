@@ -43,10 +43,6 @@ $(".time-block").on("click","p",function () {
         .text()
         .trim();
     
-    // get the ID
-    var timeID = $(this).parent().attr("id");
-    console.log(timeID);
-
     // replace p element with a new textarea
     var textInput = $("<textarea>").addClass("col-6 descripton").val(text);
     $(this).replaceWith(textInput);
