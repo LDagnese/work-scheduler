@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 
 ## **User Story**
 
@@ -6,7 +6,7 @@
 **I WANT** to add important events to a daily planner  
 **SO THAT** I can manage my time effectively  
 
-## **Accptance Criteria**
+## **Acceptance Criteria**
 
 **GIVEN** I am using a daily planner to create a schedule  
 **WHEN** I open the planner  
