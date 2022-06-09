@@ -25,3 +25,7 @@
 ### **Mock-up** 
 
 ![](/assets/images/05-third-party-apis-homework-demo.gif)
+
+### Link to Deployed Page
+
+[Deployed App on Github Pages](https://ldagnese.github.io/work-scheduler/)
